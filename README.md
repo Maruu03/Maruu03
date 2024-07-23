@@ -10,9 +10,10 @@
 - ⚡ Fun fact: I once considered applying to be a firefighter, and I have a quirky fear of balloons.
 
 - Contact me
-<a href="www.linkedin.com/in/mariu-andrade-veloz-9256b9279">
-  <img src="https://img.freepik.com/vector-premium/logotipo-cuadrado-linkedin-aislado-sobre-fondo-blanco_469489-892.jpg" alt="Linkelin" width="50">
+<a href="https://www.linkedin.com/in/mariu-andrade-veloz-9256b9279">
+  <img src="https://img.freepik.com/vector-premium/logotipo-cuadrado-linkedin-aislado-sobre-fondo-blanco_469489-892.jpg" alt="LinkedIn" width="50">
 </a>
+
 
 
 <!---
