@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Mariu
+### 👋 Hi, I’m Mariu
 
 - 🎓 I’m a Computer Science student at Escuela Superior Politécnica del Litoral (ESPOL), currently in my fourth semester.
 - 👀 I’m interested in artificial intelligence, web and mobile development, and I’m also exploring the basics of cybersecurity.
